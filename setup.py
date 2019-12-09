@@ -7,8 +7,8 @@ setup(
   description = 'Calculate Bin by mean values for each records in your dataset.',   # Give a short description about your library
   author = 'KOUSTABH KRISHNA',                   # Type in your name
   author_email = 'koustabh.krishna@mca.christuniversity.in',      # Type in your E-Mail
-  url = 'https://github.com/ankushmundhra/min_max.git',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/ankushmundhra/min_max/archive/v0.1.tar.gz',    # I explain this later on
+  url = 'https://github.com/koustabh69/binbymean.git',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/koustabh69/binbymean/archive/v0.1.tar.gz',    # I explain this later on
   keywords = ['bin', 'mean', 'python'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
